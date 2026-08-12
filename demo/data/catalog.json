@@ -4,26 +4,26 @@
     "product_model": "PVS100",
     "title": "PVS100",
     "phase": "published",
-    "image_count": 10,
-    "updated_at": "2026-08-12T13:19:22.312141+00:00",
-    "thumbnail": "/demo/files/1786485903356/previews/detail/M5.jpg"
+    "image_count": 12,
+    "updated_at": "2026-08-12T15:04:40.170158+00:00",
+    "thumbnail": "/demo/files/1786485903356/previews/detail/M1.jpg"
   },
   {
     "product_id": "1786450935894",
     "product_model": "PVS103",
     "title": "PVS103",
     "phase": "published",
-    "image_count": 10,
-    "updated_at": "2026-08-12T12:09:07.045463+00:00",
-    "thumbnail": "/demo/files/1786450935894/previews/detail/M5.jpg"
+    "image_count": 12,
+    "updated_at": "2026-08-12T15:04:41.264991+00:00",
+    "thumbnail": "/demo/files/1786450935894/previews/detail/H10.jpg"
   },
   {
     "product_id": "1786443953483",
     "product_model": "PVS116",
     "title": "PVS116",
     "phase": "published",
-    "image_count": 10,
-    "updated_at": "2026-08-12T07:34:44.286263+00:00",
-    "thumbnail": "/demo/files/1786443953483/previews/detail/M4.jpg"
+    "image_count": 18,
+    "updated_at": "2026-08-12T15:04:42.069267+00:00",
+    "thumbnail": "/demo/files/1786443953483/previews/detail/H10.jpg"
   }
 ]

@@ -1,0 +1,317 @@
+{
+  "source_documents": [
+    {
+      "doc_id": "doc_converted",
+      "source_type": "doc",
+      "source_filename": "单筒单目微光观察镜.doc",
+      "source_relpath": "converted.docx",
+      "blocks": [
+        {
+          "block_id": "p_0",
+          "type": "paragraph",
+          "text": "单筒单目微光观察镜",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_1",
+          "type": "paragraph",
+          "text": "产品介绍",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_2",
+          "type": "paragraph",
+          "text": "产品作为一种便携式观察设备，主要适用于安保，野外探险，狩猎等领域，协助用户在夜间或低照度环境下观察和识别目标。",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_3",
+          "type": "paragraph",
+          "text": "功能特点",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_4",
+          "type": "paragraph",
+          "text": "1.体积小、重量轻",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_5",
+          "type": "paragraph",
+          "text": "2.手持/头盔连接",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_6",
+          "type": "paragraph",
+          "text": "3.辅助照明",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_7",
+          "type": "paragraph",
+          "text": "4.强光保护",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_8",
+          "type": "paragraph",
+          "text": "5.左右目互换观察",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_9",
+          "type": "paragraph",
+          "text": "性能指标",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_10",
+          "type": "paragraph",
+          "text": "识别距离：无月星空，识别直立行人≥100m中型车辆≥150m",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_11",
+          "type": "paragraph",
+          "text": "倍率：1x",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_12",
+          "type": "paragraph",
+          "text": "视场：≥40°",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_13",
+          "type": "paragraph",
+          "text": "出瞳距离：25mm",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_14",
+          "type": "paragraph",
+          "text": "出瞳直径：7mm",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_15",
+          "type": "paragraph",
+          "text": "视度适应范围:-6SD～+4SD",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_16",
+          "type": "paragraph",
+          "text": "调焦范围:250mm～∞",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_17",
+          "type": "paragraph",
+          "text": "电源:CR123A电池",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_18",
+          "type": "paragraph",
+          "text": "防护等级:IP67",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_19",
+          "type": "paragraph",
+          "text": "工作温度:-40℃～+40℃",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_20",
+          "type": "paragraph",
+          "text": "重量:≤322g（不含电池）",
+          "style": "Normal"
+        },
+        {
+          "block_id": "p_21",
+          "type": "paragraph",
+          "text": "外形尺寸:112mm×75mm×58mm",
+          "style": "Normal"
+        }
+      ],
+      "raw_text": "单筒单目微光观察镜\n\n产品介绍\n\n产品作为一种便携式观察设备，主要适用于安保，野外探险，狩猎等领域，协助用户在夜间或低照度环境下观察和识别目标。\n\n功能特点\n\n1.体积小、重量轻\n\n2.手持/头盔连接\n\n3.辅助照明\n\n4.强光保护\n\n5.左右目互换观察\n\n性能指标\n\n识别距离：无月星空，识别直立行人≥100m中型车辆≥150m\n\n倍率：1x\n\n视场：≥40°\n\n出瞳距离：25mm\n\n出瞳直径：7mm\n\n视度适应范围:-6SD～+4SD\n\n调焦范围:250mm～∞\n\n电源:CR123A电池\n\n防护等级:IP67\n\n工作温度:-40℃～+40℃\n\n重量:≤322g（不含电池）\n\n外形尺寸:112mm×75mm×58mm",
+      "extract_method": "libreoffice",
+      "extract_quality": "ok"
+    }
+  ],
+  "source_images": [
+    {
+      "image_id": "img_001",
+      "file": "sources/images/all/001_206748edf4451cbb55373861cf382c94.jpg",
+      "source": "folder",
+      "source_filename": "206748edf4451cbb55373861cf382c94.jpg",
+      "width": 2227,
+      "height": 1485,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_002",
+      "file": "sources/images/all/002_41eed8088682b0dcdd9b379f2825f67c.jpg",
+      "source": "folder",
+      "source_filename": "41eed8088682b0dcdd9b379f2825f67c.jpg",
+      "width": 2227,
+      "height": 1485,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_003",
+      "file": "sources/images/all/003_474dcae68c1d65ef1cb865259c9aa66b.jpg",
+      "source": "folder",
+      "source_filename": "474dcae68c1d65ef1cb865259c9aa66b.jpg",
+      "width": 2227,
+      "height": 1485,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_004",
+      "file": "sources/images/all/004_6fd9ba04667cfb36ecfb99241f8170e2.jpg",
+      "source": "folder",
+      "source_filename": "6fd9ba04667cfb36ecfb99241f8170e2.jpg",
+      "width": 1920,
+      "height": 1280,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_005",
+      "file": "sources/images/all/005_f66730b4e8f7dd8bff45f2ffaf46515c.jpg",
+      "source": "folder",
+      "source_filename": "f66730b4e8f7dd8bff45f2ffaf46515c.jpg",
+      "width": 1582,
+      "height": 1056,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_006",
+      "file": "sources/images/all/006_1.jpg",
+      "source": "folder",
+      "source_filename": "1.jpg",
+      "width": 2280,
+      "height": 1280,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_007",
+      "file": "sources/images/all/007_2.jpg",
+      "source": "folder",
+      "source_filename": "2.jpg",
+      "width": 2279,
+      "height": 1279,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_008",
+      "file": "sources/images/all/008_5b397da9f868444c51c17a79d02536da.jpg",
+      "source": "folder",
+      "source_filename": "5b397da9f868444c51c17a79d02536da.jpg",
+      "width": 2276,
+      "height": 1278,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_009",
+      "file": "sources/images/all/009_7fc02f71e1aa545d558ab136d97d96d5.jpg",
+      "source": "folder",
+      "source_filename": "7fc02f71e1aa545d558ab136d97d96d5.jpg",
+      "width": 1278,
+      "height": 2274,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_010",
+      "file": "sources/images/all/010_e112da639e5882c14c6aca07f2e5aef6.jpg",
+      "source": "folder",
+      "source_filename": "e112da639e5882c14c6aca07f2e5aef6.jpg",
+      "width": 2276,
+      "height": 1278,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_011",
+      "file": "sources/images/all/011_f09ab7200608e2bdf108bf23b8e34f49.jpg",
+      "source": "folder",
+      "source_filename": "f09ab7200608e2bdf108bf23b8e34f49.jpg",
+      "width": 2486,
+      "height": 1400,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_012",
+      "file": "sources/images/all/012_IMG_8844.JPG",
+      "source": "folder",
+      "source_filename": "IMG_8844.JPG",
+      "width": 6240,
+      "height": 4160,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_013",
+      "file": "sources/images/all/013_IMG_8846.JPG",
+      "source": "folder",
+      "source_filename": "IMG_8846.JPG",
+      "width": 6240,
+      "height": 4160,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_014",
+      "file": "sources/images/all/014_单筒单目微光观察镜1.jpg",
+      "source": "folder",
+      "source_filename": "单筒单目微光观察镜1.jpg",
+      "width": 1829,
+      "height": 1417,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_015",
+      "file": "sources/images/all/015_单筒单目微光观察镜2.jpg",
+      "source": "folder",
+      "source_filename": "单筒单目微光观察镜2.jpg",
+      "width": 1234,
+      "height": 1417,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_016",
+      "file": "sources/images/all/016_单筒单目微光观察镜3.jpg",
+      "source": "folder",
+      "source_filename": "单筒单目微光观察镜3.jpg",
+      "width": 1578,
+      "height": 1417,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_017",
+      "file": "sources/images/all/017_单筒单目微光观察镜4.jpg",
+      "source": "folder",
+      "source_filename": "单筒单目微光观察镜4.jpg",
+      "width": 1458,
+      "height": 1225,
+      "size_tier": "full"
+    },
+    {
+      "image_id": "img_018",
+      "file": "sources/images/all/018_单筒单目微光观察镜5.jpg",
+      "source": "folder",
+      "source_filename": "单筒单目微光观察镜5.jpg",
+      "width": 1718,
+      "height": 1417,
+      "size_tier": "full"
+    }
+  ],
+  "extracted_at": "2026-08-11T10:27:05.146605+00:00",
+  "pdf_diagram_page_filter": false,
+  "pdf_auto_crop_text": true,
+  "pdf_extract_workers": 8,
+  "pdf_ocr_strategy": "page_type",
+  "pdf_preflight": []
+}

@@ -1,0 +1,346 @@
+=== [SOURCE: 多功能夜视仪.docx] ===
+多功能夜视仪
+
+一、产品简介
+
+产品具有可见光、微光、热成像三种模式，可对图像进行融合处理，昼夜环境中均可呈现高品质图像，同时，产品的测距功能与定位功能可精确测算目标位置。适用于野外探险狩猎、射击运动、执法与安保等领域。
+
+二、功能特点
+
+1. 高分辨率显示
+
+2.支持数字变倍
+
+3.图像融合
+
+4.拍照和视频录制
+
+5.WIFI无线传输
+
+6.防水防尘
+
+三、性能指标
+
+=== [COMPETITOR: comp_001 | rank 1] ===
+
+### same_product=true
+
+## api_fields
+productTitle: QML31 Four Optical Channels Infrared Thermal Imaging Multi Light Fusion Goggles Night Vision Device Outdoor Hunting & Patrol
+scPrice: 1（阶梯价）
+currency: USD
+ladderPrice:
+  - quantity: 1-9 sets; price: 18500; currency: USD
+  - quantity: ≥10 sets; price: 17900; currency: USD
+minOrderQuantity: 1
+priceUnit: Set
+商品属性:
+  magnification: Low light, IR, Fusion :2.5x; Visble: 5.8x; digital
+  Resolution: 60/64/68LP/mm
+  type: Night Vision Goggles
+  place of origin: Jiangsu, China
+  Brightness Levels: 6 Levels
+  Camera Frame Rate: \
+  customized support: OEM, ODM
+  measure range: 1500M
+  Function: Optical signal amplification and image enhancement
+  size: 260mm * 215mm *110mm
+  warranty: 1 Year
+  weight: ≤2000g
+  Endurance: Low light, IR, Fusion :2.5x; Visble: 5.8x; Digtial
+  FOV: Low light:11.2°x8.4°; IR:11°x8°; Visble:8.4°x6.3°
+  Focus adjustment: Low light, lR: motor drive; Visble: NO
+  Objective lens: Lowlight:F98mm,F/1.45;1R:F80mmF/1.05;Visb1eF35mm,F/5.6
+  Product size: 260mmx215mmx110mm
+  OLED resolution: 1600x1200
+  Measure distance: Vehicle≥4km
+  Recogmtion distance: ≥6h
+  Power: 3 batteries of 18650
+pkgMeasure: 30X25X20 cm
+pkgWeight: 3.0 kg
+sellingUnit: Single item
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 4.9
+buyer_rating_score: 4.9
+sales_text: 0 sold
+sales_count: 0
+product_review_count: 0
+store_rating_score: 4.9
+store_review_count: 44
+company_name: Nanjing Daoce Electronics Co., Ltd.
+search_rank: 1
+same_product: True
+phash_distance: 24
+detail_enrichment: ready
+signals_source: detail_page
+review_snippets:
+  - [store] Fantastic night vision unit especially for the price. If you want cheaper nods but still want quality performance then this unit is definitely the best choice.
+
+=== [COMPETITOR: comp_002 | rank 2] ===
+
+### same_product=true
+
+## api_fields
+productTitle: High Definition Visible Light Multifunctional Night Vision Binocular 5.8X Magnification 1200M Range Waterproof Clear Optics
+scPrice: 1（阶梯价）
+currency: USD
+ladderPrice:
+  - quantity: 1-99 sets; price: 15500; currency: USD
+  - quantity: 100-499 sets; price: 15300; currency: USD
+  - quantity: ≥500 sets; price: 14500; currency: USD
+minOrderQuantity: 1
+priceUnit: Set
+商品属性:
+  magnification: 5.8X
+  Resolution: 1920*1440
+  type: Binocular
+  brand name: JOVSTAR
+  place of origin: Shandong, China
+  Brightness Levels: 1 Level
+  Camera Frame Rate: 25 fps
+  customized support: OEM, ODM, OBM
+  measure range: 1200M
+  Function: Reticle, Video Recording, Waterproof, Wifi
+  size: 260*215*110mm
+  warranty: 1 Year
+  weight: ≤2000g
+pkgMeasure: 26X21.5X11 cm
+pkgWeight: 2.0 kg
+sellingUnit: Single item
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 5.0
+buyer_rating_score: 5.0
+sales_text: 0 sold
+sales_count: 0
+product_review_count: 0
+store_rating_score: 5.0
+store_review_count: 4
+company_name: Shandong Zhongtian Starray Electronic Technology Co., Ltd.
+search_rank: 2
+same_product: True
+phash_distance: 24
+detail_enrichment: ready
+signals_source: detail_page
+ranking_badges:
+  - #2 most popular in Night Vision
+
+=== [COMPETITOR: comp_004 | rank 4] ===
+
+### same_product=true
+
+## api_fields
+productTitle: Pulsar Merger LRF XP35 Binocular High Sensitive Thermal Imaging Binoculars Hunting Telescope with Laser Range Finder
+scPrice: 1（阶梯价）
+currency: USD
+ladderPrice:
+  - quantity: 0 - 5; price: 4,80; currency: USD
+minOrderQuantity: 1
+priceUnit: Piece
+商品属性:
+  Place of Origin: Lithuania
+  Brand Name: PULSAR
+  Model Number: MERGER LRF XP35
+  Type: Binoculars
+  Maximum Output Power: >1MW,<5MW
+  Material: Magnesium
+  Weight: 830g
+  Magnification: 2-16x
+  Application: Outdoor, Tactical, Hunting, outdoor activity, TELESCOPE, Outdoor Sports, bird watching
+  Feature: Waterproof, Shockproof
+  Field of View: 12.4x9.3/21.8x16.3
+  Objective Lens Diameter: 35mm
+  Mount Base Type: 20mm, 11 mm
+  Performance Level: High
+  Sensor: 640X480 pix 17 um
+  Objective lens: F35 / 1.0
+  FOV (HxV) degrees: 17.8
+  Display type and resolution  pix: AMOLED 1024X768
+  Eye Relief: 15
+  Detection range  m: 1350mm
+  Waterproof: IPX7
+  Weight,kg: 0.83
+  size: 165X133X68
+pkgMeasure: 45X25X25 cm
+pkgWeight: 5.0 kg
+sellingUnit: Single item
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 4.7
+buyer_rating_score: 4.7
+sales_text: 0 sold
+sales_count: 0
+product_review_count: 0
+store_rating_score: 4.8
+store_review_count: 20
+company_name: Wuhu Boyue Import And Export Trading Co., Ltd.
+search_rank: 4
+same_product: True
+phash_distance: 22
+detail_enrichment: ready
+signals_source: detail_page
+review_snippets:
+  - [store] Nice thermal imaging to its price, durable and riggid. A good option if want price to performance!
+
+=== [COMPETITOR: comp_047 | rank 47] ===
+
+### same_product=true
+
+## api_fields
+productTitle: JOVSTAR Professional Multifunctional Night Vision Binoculars CMOS Sensor Portable 2.5X Optical Zoom 800x600 Resolution Camping
+scPrice: 1（阶梯价）
+currency: USD
+ladderPrice:
+  - quantity: 1-99 sets; price: 15500; currency: USD
+  - quantity: 100-499 sets; price: 15300; currency: USD
+  - quantity: ≥500 sets; price: 14500; currency: USD
+minOrderQuantity: 1
+priceUnit: Set
+商品属性:
+  Place of Origin: Shandong, China
+  Brand Name: JOVSTAR
+  Optical Zoom: 2.5X
+  Image Stabilization: Yes
+  MegaPixel: 800*600
+  Special Feature: Portable
+  Sensor Element Type: CMOS
+  Packaging: OEM/ODM
+  Type: Night Vision Binoculars
+pkgWeight: 0.0 kg
+sellingUnit: Single item
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 5.0
+buyer_rating_score: 5.0
+sales_text: 0 sold
+sales_count: 0
+product_review_count: 0
+store_rating_score: 5.0
+store_review_count: 4
+company_name: Shandong Zhongtian Starray Electronic Technology Co., Ltd.
+search_rank: 47
+same_product: True
+phash_distance: 6
+detail_enrichment: ready
+signals_source: detail_page
+ranking_badges:
+  - #2 most popular in Night Vision
+
+=== [COMPETITOR: comp_003 | rank 3] ===
+
+### competitor
+
+## api_fields
+productTitle: Professional Fusion Multifunctional Night Vision Scope High Resolution Equipment for Nature Monitoring Camping Hiking Night Use
+ladderPrice:
+  - quantity: Min. order: 1 set; price: $14,500-15,500 Min. order: 1 set
+minOrderQuantity: Min. order: 1 set
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 5.0
+buyer_rating_score: 5.0
+company_name: Shandong Zhongtian Starray Electronic Technology Co., Ltd.
+search_rank: 3
+same_product: False
+detail_enrichment: list_only
+
+=== [COMPETITOR: comp_005 | rank 5] ===
+
+### competitor
+
+## api_fields
+productTitle: Pulsar Merger LRF XP35 Outdoor Hunting Thermal NETD 25MK Binocular Digital Night Vision Telescopes 640x480
+ladderPrice:
+  - quantity: Min. order: 1 piece; price: $4,800-5,000 Min. order: 1 piece
+minOrderQuantity: Min. order: 1 piece
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 4.7
+buyer_rating_score: 4.7
+company_name: Wuhu Boyue Import And Export Trading Co., Ltd.
+search_rank: 5
+same_product: False
+detail_enrichment: list_only
+
+=== [COMPETITOR: comp_006 | rank 6] ===
+
+### competitor
+
+## api_fields
+productTitle: PULSAR MERGER LRF XP35 Thermal Vision Binoculars Infrared Sighting Telescope 640x480
+ladderPrice:
+  - quantity: Min. order: 1 piece; price: $4,800-5,000 Min. order: 1 piece
+minOrderQuantity: Min. order: 1 piece
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 4.7
+buyer_rating_score: 4.7
+company_name: Wuhu Boyue Import And Export Trading Co., Ltd.
+search_rank: 6
+same_product: False
+detail_enrichment: list_only
+
+=== [COMPETITOR: comp_007 | rank 7] ===
+
+### competitor
+
+## api_fields
+productTitle: Pulsar Merger LRF XL50 2.5 - 20X Night Vision Thermal Imaging Scope Hunting
+ladderPrice:
+  - quantity: Min. order: 1 piece; price: $7,299 Min. order: 1 piece
+minOrderQuantity: Min. order: 1 piece
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 4.7
+buyer_rating_score: 4.7
+company_name: Wuhu Boyue Import And Export Trading Co., Ltd.
+search_rank: 7
+same_product: False
+detail_enrichment: list_only
+
+=== [COMPETITOR: comp_008 | rank 8] ===
+
+### competitor
+
+## api_fields
+productTitle: Pulsar Merger LRF XL50 2.5 - 20X Night Vision Thermal Imaging Scope Hunting
+ladderPrice:
+  - quantity: Min. order: 1 piece; price: $7,299 Min. order: 1 piece
+minOrderQuantity: Min. order: 1 piece
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 4.7
+buyer_rating_score: 4.7
+company_name: Wuhu Boyue Import And Export Trading Co., Ltd.
+search_rank: 8
+same_product: False
+detail_enrichment: list_only
+
+=== [COMPETITOR: comp_009 | rank 9] ===
+
+### competitor
+
+## api_fields
+productTitle: Hunting Tactical Waterproof Binoculars Pulsar Merger LRF XL50 2.5-20X 1024x768 Night Vision Thermal Imaging
+ladderPrice:
+  - quantity: Min. order: 1 piece; price: $7,299 Min. order: 1 piece
+minOrderQuantity: Min. order: 1 piece
+
+## market_signals
+（非发品 Schema，仅供挑选与可信度参考）
+buyer_rating: 4.7
+buyer_rating_score: 4.7
+company_name: Wuhu Boyue Import And Export Trading Co., Ltd.
+search_rank: 9
+same_product: False
+detail_enrichment: list_only
