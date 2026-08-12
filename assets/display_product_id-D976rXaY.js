@@ -1,0 +1,1 @@
+function e(e){let t=String(e||``).trim();return/^\d{6,}$/.test(t)}function t(t,n){let r=String(t||``).trim();if(e(r))return r;let i=String(n||``).trim();return e(i)?i:``}export{t};

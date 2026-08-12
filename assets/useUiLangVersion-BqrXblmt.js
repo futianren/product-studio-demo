@@ -1,0 +1,1 @@
+import{it as e}from"./vue-vendor-BmpBOgMd.js";var t=e(0);function n(){t.value+=1}function r(){return{uiLangVersion:t}}export{t as n,r,n as t};
